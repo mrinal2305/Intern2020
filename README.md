@@ -1,4 +1,3 @@
-# Intern2020
 # Sentiment Score analysis
 1. Avg Subjectivity and Polarity per day
 2. Pie Chart - of data per day
@@ -18,5 +17,5 @@ NOTE:- Sentiment density and other type of analysis is plus point.
 # Techniques -
  data ,cummulative data, interval ,diffrence data and other technique
 
-<!--Ref Links - https://github.com/xxz-jessica/COVID-19_UCD_Challenge ,https://live.rlamsal.com.np/ ,talbeu ,do more research-->
+Ref Links - https://github.com/xxz-jessica/COVID-19_UCD_Challenge ,https://live.rlamsal.com.np/ ,talbeu ,do more research
 
