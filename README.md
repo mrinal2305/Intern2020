@@ -24,6 +24,8 @@ Twitter sentiment analysis Machine learning model, which  can find the sentim
 
 #### Test Model
 ![alt text](https://firebasestorage.googleapis.com/v0/b/tourist-bot-hilapp.appspot.com/o/Dashboard_images%2F7.PNG?alt=media&token=a15d50ce-cb20-4bb4-8e65-726b4b502048)
+#### Covid19 Tracker
+![alt text](https://firebasestorage.googleapis.com/v0/b/tourist-bot-hilapp.appspot.com/o/Dashboard_images%2F8.PNG?alt=media&token=0a873a6a-2295-425c-97cc-fec167f5a8b8)
 
 ### PPt link
 https://drive.google.com/file/d/1J7olMz38UN7yhn-OM6BXZ6Odppm1tLy3/view?usp=sharing
