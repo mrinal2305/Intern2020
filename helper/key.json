@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "tourist-bot-hilapp",
-  "private_key_id": "4ce59cfd9228c15bb42435e7340b7bfa4bf4d16a",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC4BwXodSkuklSf\n/hTi+MFDFp1oomh/uBDJr7C2af1PcBrpUvcBy3OCD+CzVktQDJsrDG1LOTUQLEQt\npUKIWrUPHxjKfD67KyIJgak/wMVI8n7MYhmhOxvSV+0+XoeepLfCuNcehkmtLHRA\nmCuSgB+Obin0eCROgZlJPLgDF6+BTYzQGA7SeBMUsE5ot8KzF+7dZTuxMvdAp7wv\nARqGNU8HHsPmc6L8PMYLJENy324KaVaStWrVynJ12rRFbiRNKlbpqWdkZi1StiFJ\nhgPXhXcycxw7chMTdOpz7IeCVtB/lSz5VK78pryRIwNhZyDqyhKpaHWpPt+cgum0\nasMAelUdAgMBAAECggEAAenD68ejLSSpqOqTHvEWT9WPLLoxgf4ej2rID1hGqlnu\nHR7t3IeX+Ta1+Nh17QyCyXSauY6nhCz9oppGZou1b2DYWPSMo/m0yI8o/JpLHjEP\neVSwLrzP5XuXvaG2vJVM3sMv0Qxi2MTKJi1Vquox3BNQL/0yL7d3IKut9nsf8u5E\n0nTzgJm9qfhb4CmWdIu+ZYKVIvoQKuCzA3e3q5AtCPDPSoHdW3Hq5rZWrnx0UHhS\n562apCGRZANFZ2DceuoyvaH0lTsmofiiU9J5AFMwI7w9LCBLP+o9OLRLlQf8AEPA\nnUlVZeIZBSKlmDVH6RwrHw3Mb27TTHzEcN+IcL5ByQKBgQDuR8pSJprBSrkyOidC\nZN3EezlMu4VJKIUy8dY6vKzzG5qkuexdp354QsBf4G0HoVMHziuT86W8BRo6Yg9T\ntLsl+NWQ9Ov6bKhfWXTH20XZA06Lq3bYxkuzZQu/gO2+2dzmsrRN9m9YWb/F1bmC\nN+F9ifo3aHjdDYSrhzBqPg5K2QKBgQDFtmdUW2saNRitD+Nm02f131B/5IVGJMyS\nmLiY6Ix+36vquDR/cOazNfL99AH+ktKq7kTg33YlbZB60zU26GZpAMbESiMy8lpZ\nnn/ZTwqjbtzwuN6ET5SnAn/JSrjOx4IiAJjm+YzXd7li7r766sG9mxRPo1IgtwnP\nd+OpNjXJ5QKBgQChCK2INYTS6vAcLMcJjOd/eROxcu3SEmtqkZwJmCd+KQKrHufK\nJ39GQT6HzUGCLZnSpZg35ir01bHzEQBwvqzYLcIPtCai2Lo1rlxJETy0PBLiO6AX\nQnQ4qip1YunJ2Kz80HsgUVLQr972EcnMYn2m/Q+4UIeWRSOLVNL4ijXYiQKBgQCw\nXlyitcI+6KqQhyHV8jRE8ua+j74LqnwLMc1KKfhanXCgu52pKa/CoheXTvoQfC0N\naetrpiugi7JcvtgzmPDyLk0hgPkRU3whgfCOi6Hz1MumuWNWKB91NBeGGu/tFbAS\nYPIE6QwokZaAmHUpJA2b9CEUQZ7brCxGNK6TndYxuQKBgQCj8+VES14aCX0x01NI\ni4mxfVklV2F+afTmJWJnnZsoRamnvp4efjyKA1M8NQyoTsymLO2IqI8N/qzT0rG+\n03LsZRR/T2YlVAmv1BXCjFRZ1vkbZkoy5Els4HKCscpOqbg+6IEaqyDFWdk7TmPk\nsiyffMRU81h88YL1GuLCSBJSng==\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-vchb6@tourist-bot-hilapp.iam.gserviceaccount.com",
-  "client_id": "112718233571654062552",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-vchb6%40tourist-bot-hilapp.iam.gserviceaccount.com"
-}
+
