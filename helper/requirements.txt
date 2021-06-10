@@ -4,7 +4,7 @@ chardet==3.0.4
 click==7.1.2
 cycler==0.10.0
 decorator==4.4.2
-fastapi==0.58.1
+fastapi==0.65.2
 fsspec==0.7.4
 gcsfs==0.6.2
 google-auth==1.18.0
